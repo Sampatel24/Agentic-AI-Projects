@@ -143,7 +143,7 @@ Try/except handles errors within a running process. It can't help when the proce
 
 ## What's Next
 
-In Project 4, you'll build **K8sSentinel** -- a self-healing Kubernetes agent that:
+In Project 4, I'll build **K8sSentinel** -- a self-healing Kubernetes agent that:
 
 - Watches for broken pods in your cluster
 - Diagnoses the root cause using an LLM
