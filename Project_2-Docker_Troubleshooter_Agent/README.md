@@ -68,4 +68,4 @@ docker rm -f broken-app
 
 ---
 
-Next: **[Module 3 — Multi-Tool DevOps Agent with MCP](../Project_3-Multi-Tool_DevOps_Agent_with_MCP/)**
+Next: **[Project 3 — Multi-Tool DevOps Agent with MCP](../Project_3-Multi-Tool_DevOps_Agent_with_MCP/)**
