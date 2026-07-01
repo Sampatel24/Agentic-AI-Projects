@@ -19,7 +19,7 @@ Keep it short.
 
 
 while True:
-    user_input = input("Paste your Docker error (Enter exit when done):\n")
+    user_input = input("Paste your Docker error (Enter exit when done):\n\n")
 
     if user_input == 'exit':
         break
@@ -32,7 +32,7 @@ while True:
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_input},
         ],
-        options={"temperature": 0.4},
+        options={"temperature": 0.5},
     )
 
     print(response["message"]["content"])

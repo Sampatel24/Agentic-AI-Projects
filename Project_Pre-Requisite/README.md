@@ -83,4 +83,4 @@ If everything shows `[PASS]` — you're ready to Build the Agentic AI Projects.
 
 ---
 
-Next: **[Project 1-Docker Error Explainer](../Project_1-Docker_Error_Explainer/)**
+Next: **[Project 1 - Docker Error Explainer](../Project_1-Docker_Error_Explainer/)**
