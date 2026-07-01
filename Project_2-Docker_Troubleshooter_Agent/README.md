@@ -60,7 +60,7 @@ Clean up when done:
 docker rm -f broken-app
 ```
 
-## Experiment
+## For Experiment Purpose
 
 - Add another tool — maybe `stop_container(name)` or `restart_container(name)`
 - Run multiple broken containers and ask "which containers have problems?"
