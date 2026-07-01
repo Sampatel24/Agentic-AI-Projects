@@ -21,7 +21,7 @@ Keep it short.
 while True:
     user_input = input("Paste your Docker error (Enter exit when done):\n\n")
 
-    if user_input == 'exit':
+    if user_input.lower() == 'exit':
         break
 
     print("\nThinking...\n")

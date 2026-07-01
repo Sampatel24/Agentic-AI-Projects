@@ -2,7 +2,7 @@
 
 Paste a Docker error, get a plain-English explanation and fix. Your first LLM-powered tool.
 
-## What You've Learned
+## What I've Learned
 
 - **Prompt** — the text you send to an LLM. Here, it's the Docker error itself.
 - **System role** — a message that sets the LLM's personality ("You are a Docker expert..."). Change it, and the tone of every answer changes.
