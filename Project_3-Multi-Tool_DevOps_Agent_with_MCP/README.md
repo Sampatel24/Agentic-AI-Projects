@@ -222,12 +222,12 @@ Why this matters:
 - Check JSON syntax in the config file — one wrong comma breaks it.
 - Check logs: `~/Library/Logs/Claude/mcp*.log` on macOS.
 
-## Experiment
+## For Experiment Purpose
 
-- Add a 4th K8s tool: `get_pod_logs(pod_name, namespace)` to get logs from a pod
+- Add another K8s tool: `get_pod_logs(pod_name, namespace)` to get logs from a pod
 - Add Docker tools to the MCP server — it doesn't have to be K8s-only
 - Deploy multiple broken pods in different namespaces and ask the agent to find them all
-- Ask Claude Desktop to "restart the broken pod" — what happens? (It can't, because we didn't give it a restart tool. That's coming in Project 4.)
+- Ask Claude Desktop to "restart the broken pod" — what happens? (It can't, because we didn't give it a restart tool. That will be implemented in Project 4.)
 
 ---
 
